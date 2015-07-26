@@ -11,6 +11,17 @@ For syntax color check
 
 # Markdown Sample
 - [This is sample](http://example.com)
+
+**foo**
+~~baz~~
+__bar__
+
+----
+----
+----
+
 ```
 This is Sample
 ```
+
+<blockquote>raw tag</blockquote>
